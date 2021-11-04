@@ -21,12 +21,16 @@
 
 
 
-> Les primeres parts del que ha esdevingut Spring Framework van ser escrites per Rod Johnson el 2000, mentre treballava com a consultor independent per clients de la indústria financera a Londres. Mentre escrivia el seu llibre Expert One-on-one J2EE Design And Development (Programmer to programmer) (2002), va anar més enllà del seu codi per expressar la seva perspectiva de com les aplicacions amb diferents parts de la plataforma J2EE hauria d'esdevenir més simple i més consistent del que els desenvolupadors i les empreses ho estaven fent en aquell moment.
+> Les primeres parts del que ha esdevingut Spring Framework van ser **escrites** per Rod Johnson el 2000, mentre treballava com a consultor independent per clients de la indústria financera a Londres. Mentre escrivia el seu llibre Expert One-on-one J2EE Design And Development (Programmer to programmer) (2002), va anar més enllà del seu codi per expressar la seva perspectiva de com les aplicacions amb diferents parts de la plataforma J2EE hauria d'esdevenir més simple i més consistent del que els desenvolupadors i les empreses ho estaven fent en aquell moment.
 
+***
 
+#### Paraules en cursiva i en negreta-
+
+El **Java** és un _llenguatge de programació_ dissenyat el _1990_ per **James Gosling** amb altres companys de _Sun Microsystems_ a partir del *llenguatge C.* Des del seu naixement fou pensat com un llenguatge **orientat a objectes.**
+
+***
 ### Funcionalitats clau
-
-
 
 
 ```sh
@@ -39,3 +43,5 @@ System.out.print(res)
 #### Introducció a Spring Framework
 
 [Enterprise JavaBeans.](https://ca.wikipedia.org/wiki/Enterprise_JavaBean)
+[Java 7](https://www.oracle.com/java/technologies/).
+[Guies de Java per temes](http://www.dickbaldwin.com/toc.htm).
